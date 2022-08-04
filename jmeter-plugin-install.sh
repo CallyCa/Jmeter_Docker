@@ -19,5 +19,3 @@ chmod a+x ${JMETER_HOME}/bin/*.sh
 pwd
 
 ls -l ${JMETER_HOME}/bin/*.sh
-
-PluginsManagerCMD install jpgc-udp=0.4
